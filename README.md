@@ -12,7 +12,8 @@
 </div>
 <br>
 Each PCB contain a magnetic driver to track the step of the step motors, each driver will be in charge of 1 motor. And in each PCB contains a STM32F103CBT6, this MCU has the role to receive command from the main board through UART and control the motors.
-<br>
+
+
 <div align="center"; display="flex">
   <img src="https://github.com/Ngoc411/Driver-Ver1/blob/e4cdcee852b8e8da6571943189ff37abebfbcab2/Screenshot%202025-02-21%20080745.png" height="300">
   <img src="https://github.com/Ngoc411/Driver-Ver1/blob/e4cdcee852b8e8da6571943189ff37abebfbcab2/Screenshot%202025-02-21%20080313.png" height="300">
