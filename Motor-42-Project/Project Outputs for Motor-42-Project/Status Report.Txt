@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Motor-42-Project.PrjPcb]
+   Generated File[Motor-42-ClosedLoop.TXT]
+   Generated File[Motor-42-ClosedLoop.LDP]
+   Generated File[Motor-42-ClosedLoop.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:23:33 PM On 10/19/2024

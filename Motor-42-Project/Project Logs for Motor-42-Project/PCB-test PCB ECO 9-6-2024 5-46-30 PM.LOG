@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=GND Pin=C_out?-2
+Removed Pin From Net: NetName=GND Pin=Cin?-2
+Removed Pin From Net: NetName=GND Pin=L?-2
+Removed Pin From Net: NetName=GND Pin=R?-2
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Pin From Net: NetName=GND Pin=U-7
+Removed Pin From Net: NetName=GND Pin=U-10
+Removed Pin From Net: NetName=GND Pin=U-13
+Added Pin To Net: NetName=VCC_5V Pin=C?-2
+Added Pin To Net: NetName=VCC_5V Pin=C?-2
+Added Pin To Net: NetName=VCC_5V Pin=C_out?-2
+Added Pin To Net: NetName=VCC_5V Pin=Cin?-2
+Added Pin To Net: NetName=VCC_5V Pin=L?-2
+Added Pin To Net: NetName=VCC_5V Pin=R?-2
+Added Pin To Net: NetName=VCC_5V Pin=U-7
+Added Pin To Net: NetName=VCC_5V Pin=U-10
+Added Pin To Net: NetName=VCC_5V Pin=U-13
+Added Pin To Net: NetName=VCC_5V Pin=U3-3
+Added Net: Name=VCC_5V
+Added Member To Class: ClassName=Motor-42-ClosedLoop Member=Component C?
+Added Member To Class: ClassName=Motor-42-ClosedLoop Member=Component L? Inductor
+Added Member To Class: ClassName=Motor-42-ClosedLoop Member=Component R? 110K
+Added Member To Class: ClassName=Motor-42-ClosedLoop Member=Component R? 750K
+Added Member To Class: ClassName=Motor-42-ClosedLoop Member=Component R? 15K
+Added Member To Class: ClassName=Motor-42-ClosedLoop Member=Component R? 240K

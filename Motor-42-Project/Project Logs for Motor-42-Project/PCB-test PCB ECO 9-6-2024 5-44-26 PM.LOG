@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=U-8
+Added Member To Class: ClassName=Motor-42-ClosedLoop Member=Component C?
+Added Member To Class: ClassName=Motor-42-ClosedLoop Member=Component L? Inductor
+Added Member To Class: ClassName=Motor-42-ClosedLoop Member=Component R? 15K
+Added Member To Class: ClassName=Motor-42-ClosedLoop Member=Component R? 110K
+Added Member To Class: ClassName=Motor-42-ClosedLoop Member=Component R? 750K
+Added Member To Class: ClassName=Motor-42-ClosedLoop Member=Component R? 240K
